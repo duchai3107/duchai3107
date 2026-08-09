@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E86AB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenduchai9e@gmail.com)
 
 </div>
 
@@ -28,12 +28,8 @@ const duchai3107 = {
     funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
-
-- 🔭 I'm currently working on **...**
-- 🌱 I'm currently learning **...**
-- 👯 I'm looking to collaborate on **...**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me at **your.email@gmail.com**
+- 📫 Reach me at **nguyenduchai9e@gmail.com**
 
 <br/>
 
