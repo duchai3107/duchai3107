@@ -53,29 +53,6 @@ const duchai3107 = {
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=duchai3107&show_icons=true&theme=default&hide_border=true&title_color=2E86AB&icon_color=2E86AB&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchai3107&layout=compact&hide_border=true&title_color=2E86AB&text_color=333333" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=duchai3107&hide_border=true&background=FFFFFF&ring=2E86AB&fire=2E86AB&currStreakLabel=2E86AB" />
-
-</div>
-
-<br/>
-
-## GitHub Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duchai3107&theme=minimal&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
 <div align="center">
 
 ### Thanks for stopping by! ⭐
